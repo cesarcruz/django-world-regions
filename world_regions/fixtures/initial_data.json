@@ -4,7 +4,7 @@
 			"name": "Unknown",
 			"code": "0"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 1
 	},
 	{
@@ -12,7 +12,7 @@
 			"name": "Eastern Africa",
 			"code": "014"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 2
 	},
 	{
@@ -20,7 +20,7 @@
 			"name": "Middle Africa",
 			"code": "017"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 3
 	},
 	{
@@ -28,7 +28,7 @@
 			"name": "Northern Africa",
 			"code": "015"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 4
 	},
 	{
@@ -36,7 +36,7 @@
 			"name": "Southern Africa",
 			"code": "018"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 5
 	},
 	{
@@ -44,7 +44,7 @@
 			"name": "Western Africa",
 			"code": "011"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 6
 	},
 	{
@@ -52,7 +52,7 @@
 			"name": "Caribbean",
 			"code": "029"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 7
 	},
 	{
@@ -60,7 +60,7 @@
 			"name": "Central America",
 			"code": "013"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 8
 	},
 	{
@@ -68,7 +68,7 @@
 			"name": "Southern America",
 			"code": "005"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 9
 	},
 	{
@@ -76,7 +76,7 @@
 			"name": "Northern America",
 			"code": "021"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 10
 	},
 	{
@@ -84,7 +84,7 @@
 			"name": "Central Asia",
 			"code": "143"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 11
 	},
 	{
@@ -92,7 +92,7 @@
 			"name": "Eastern Asia",
 			"code": "030"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 12
 	},
 	{
@@ -100,7 +100,7 @@
 			"name": "Southern Asia",
 			"code": "034"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 13
 	},
 	{
@@ -108,7 +108,7 @@
 			"name": "South-Eastern Asia",
 			"code": "035"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 14
 	},
 	{
@@ -116,7 +116,7 @@
 			"name": "Western Asia",
 			"code": "145"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 15
 	},
 	{
@@ -124,7 +124,7 @@
 			"name": "Eastern Europe",
 			"code": "151"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 16
 	},
 	{
@@ -132,7 +132,7 @@
 			"name": "Northern Europe",
 			"code": "154"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 17
 	},
 	{
@@ -140,7 +140,7 @@
 			"name": "Southern Europe",
 			"code": "039"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 18
 	},
 	{
@@ -148,7 +148,7 @@
 			"name": "Western Europe",
 			"code": "155"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 19
 	},
 	{
@@ -156,7 +156,7 @@
 			"name": "Australia and New Zealand",
 			"code": "053"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 20
 	},
 	{
@@ -164,7 +164,7 @@
 			"name": "Melanesia",
 			"code": "054"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 21
 	},
 	{
@@ -172,7 +172,7 @@
 			"name": "Micronesia",
 			"code": "057"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 22
 	},
 	{
@@ -180,7 +180,7 @@
 			"name": "Polynesia",
 			"code": "061"
 		},
-		"model": "simple_regions.region",
+		"model": "world_regions.region",
 		"pk": 23
 	},
 	{
@@ -188,7 +188,7 @@
 			"region": "13",
 			"country": "AF"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 2
 	},
 	{
@@ -196,7 +196,7 @@
 			"region": "17",
 			"country": "AX"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 3
 	},
 	{
@@ -204,7 +204,7 @@
 			"region": "18",
 			"country": "AL"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 4
 	},
 	{
@@ -212,7 +212,7 @@
 			"region": "4",
 			"country": "DZ"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 5
 	},
 	{
@@ -220,7 +220,7 @@
 			"region": "23",
 			"country": "AS"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 6
 	},
 	{
@@ -228,7 +228,7 @@
 			"region": "18",
 			"country": "AD"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 7
 	},
 	{
@@ -236,7 +236,7 @@
 			"region": "3",
 			"country": "AO"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 8
 	},
 	{
@@ -244,7 +244,7 @@
 			"region": "7",
 			"country": "AI"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 9
 	},
 	{
@@ -252,7 +252,7 @@
 			"region": "1",
 			"country": "AQ"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 10
 	},
 	{
@@ -260,7 +260,7 @@
 			"region": "7",
 			"country": "AG"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 11
 	},
 	{
@@ -268,7 +268,7 @@
 			"region": "9",
 			"country": "AR"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 12
 	},
 	{
@@ -276,7 +276,7 @@
 			"region": "15",
 			"country": "AM"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 13
 	},
 	{
@@ -284,7 +284,7 @@
 			"region": "7",
 			"country": "AW"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 14
 	},
 	{
@@ -292,7 +292,7 @@
 			"region": "20",
 			"country": "AU"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 15
 	},
 	{
@@ -300,7 +300,7 @@
 			"region": "19",
 			"country": "AT"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 16
 	},
 	{
@@ -308,7 +308,7 @@
 			"region": "15",
 			"country": "AZ"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 17
 	},
 	{
@@ -316,7 +316,7 @@
 			"region": "7",
 			"country": "BS"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 18
 	},
 	{
@@ -324,7 +324,7 @@
 			"region": "15",
 			"country": "BH"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 19
 	},
 	{
@@ -332,7 +332,7 @@
 			"region": "13",
 			"country": "BD"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 20
 	},
 	{
@@ -340,7 +340,7 @@
 			"region": "7",
 			"country": "BB"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 21
 	},
 	{
@@ -348,7 +348,7 @@
 			"region": "16",
 			"country": "BY"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 22
 	},
 	{
@@ -356,7 +356,7 @@
 			"region": "19",
 			"country": "BE"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 23
 	},
 	{
@@ -364,7 +364,7 @@
 			"region": "8",
 			"country": "BZ"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 24
 	},
 	{
@@ -372,7 +372,7 @@
 			"region": "6",
 			"country": "BJ"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 25
 	},
 	{
@@ -380,7 +380,7 @@
 			"region": "10",
 			"country": "BM"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 26
 	},
 	{
@@ -388,7 +388,7 @@
 			"region": "13",
 			"country": "BT"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 27
 	},
 	{
@@ -396,7 +396,7 @@
 			"region": "9",
 			"country": "BO"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 28
 	},
 	{
@@ -404,7 +404,7 @@
 			"region": "18",
 			"country": "BA"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 29
 	},
 	{
@@ -412,7 +412,7 @@
 			"region": "5",
 			"country": "BW"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 30
 	},
 	{
@@ -420,7 +420,7 @@
 			"region": "1",
 			"country": "BV"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 31
 	},
 	{
@@ -428,7 +428,7 @@
 			"region": "9",
 			"country": "BR"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 32
 	},
 	{
@@ -436,7 +436,7 @@
 			"region": "1",
 			"country": "IO"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 33
 	},
 	{
@@ -444,7 +444,7 @@
 			"region": "14",
 			"country": "BN"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 34
 	},
 	{
@@ -452,7 +452,7 @@
 			"region": "16",
 			"country": "BG"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 35
 	},
 	{
@@ -460,7 +460,7 @@
 			"region": "6",
 			"country": "BF"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 36
 	},
 	{
@@ -468,7 +468,7 @@
 			"region": "2",
 			"country": "BI"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 37
 	},
 	{
@@ -476,7 +476,7 @@
 			"region": "14",
 			"country": "KH"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 38
 	},
 	{
@@ -484,7 +484,7 @@
 			"region": "3",
 			"country": "CM"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 39
 	},
 	{
@@ -492,7 +492,7 @@
 			"region": "10",
 			"country": "CA"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 40
 	},
 	{
@@ -500,7 +500,7 @@
 			"region": "6",
 			"country": "CV"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 41
 	},
 	{
@@ -508,7 +508,7 @@
 			"region": "7",
 			"country": "KY"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 42
 	},
 	{
@@ -516,7 +516,7 @@
 			"region": "3",
 			"country": "CF"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 43
 	},
 	{
@@ -524,7 +524,7 @@
 			"region": "3",
 			"country": "TD"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 44
 	},
 	{
@@ -532,7 +532,7 @@
 			"region": "9",
 			"country": "CL"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 45
 	},
 	{
@@ -540,7 +540,7 @@
 			"region": "12",
 			"country": "CN"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 46
 	},
 	{
@@ -548,7 +548,7 @@
 			"region": "1",
 			"country": "CX"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 47
 	},
 	{
@@ -556,7 +556,7 @@
 			"region": "1",
 			"country": "CC"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 48
 	},
 	{
@@ -564,7 +564,7 @@
 			"region": "9",
 			"country": "CO"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 49
 	},
 	{
@@ -572,7 +572,7 @@
 			"region": "2",
 			"country": "KM"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 50
 	},
 	{
@@ -580,7 +580,7 @@
 			"region": "3",
 			"country": "CG"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 51
 	},
 	{
@@ -588,7 +588,7 @@
 			"region": "3",
 			"country": "CD"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 52
 	},
 	{
@@ -596,7 +596,7 @@
 			"region": "23",
 			"country": "CK"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 53
 	},
 	{
@@ -604,7 +604,7 @@
 			"region": "8",
 			"country": "CR"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 54
 	},
 	{
@@ -612,7 +612,7 @@
 			"region": "6",
 			"country": "CI"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 55
 	},
 	{
@@ -620,7 +620,7 @@
 			"region": "18",
 			"country": "HR"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 56
 	},
 	{
@@ -628,7 +628,7 @@
 			"region": "7",
 			"country": "CU"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 57
 	},
 	{
@@ -636,7 +636,7 @@
 			"region": "15",
 			"country": "CY"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 58
 	},
 	{
@@ -644,7 +644,7 @@
 			"region": "16",
 			"country": "CZ"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 59
 	},
 	{
@@ -652,7 +652,7 @@
 			"region": "17",
 			"country": "DK"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 60
 	},
 	{
@@ -660,7 +660,7 @@
 			"region": "2",
 			"country": "DJ"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 61
 	},
 	{
@@ -668,7 +668,7 @@
 			"region": "7",
 			"country": "DM"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 62
 	},
 	{
@@ -676,7 +676,7 @@
 			"region": "7",
 			"country": "DO"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 63
 	},
 	{
@@ -684,7 +684,7 @@
 			"region": "9",
 			"country": "EC"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 64
 	},
 	{
@@ -692,7 +692,7 @@
 			"region": "4",
 			"country": "EG"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 65
 	},
 	{
@@ -700,7 +700,7 @@
 			"region": "8",
 			"country": "SV"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 66
 	},
 	{
@@ -708,7 +708,7 @@
 			"region": "3",
 			"country": "GQ"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 67
 	},
 	{
@@ -716,7 +716,7 @@
 			"region": "2",
 			"country": "ER"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 68
 	},
 	{
@@ -724,7 +724,7 @@
 			"region": "17",
 			"country": "EE"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 69
 	},
 	{
@@ -732,7 +732,7 @@
 			"region": "2",
 			"country": "ET"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 70
 	},
 	{
@@ -740,7 +740,7 @@
 			"region": "9",
 			"country": "FK"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 71
 	},
 	{
@@ -748,7 +748,7 @@
 			"region": "1",
 			"country": "FO"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 72
 	},
 	{
@@ -756,7 +756,7 @@
 			"region": "21",
 			"country": "FJ"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 73
 	},
 	{
@@ -764,7 +764,7 @@
 			"region": "17",
 			"country": "FI"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 74
 	},
 	{
@@ -772,7 +772,7 @@
 			"region": "19",
 			"country": "FR"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 75
 	},
 	{
@@ -780,7 +780,7 @@
 			"region": "9",
 			"country": "GF"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 76
 	},
 	{
@@ -788,7 +788,7 @@
 			"region": "23",
 			"country": "PF"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 77
 	},
 	{
@@ -796,7 +796,7 @@
 			"region": "1",
 			"country": "TF"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 78
 	},
 	{
@@ -804,7 +804,7 @@
 			"region": "3",
 			"country": "GA"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 79
 	},
 	{
@@ -812,7 +812,7 @@
 			"region": "6",
 			"country": "GM"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 80
 	},
 	{
@@ -820,7 +820,7 @@
 			"region": "15",
 			"country": "GE"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 81
 	},
 	{
@@ -828,7 +828,7 @@
 			"region": "19",
 			"country": "DE"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 82
 	},
 	{
@@ -836,7 +836,7 @@
 			"region": "6",
 			"country": "GH"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 83
 	},
 	{
@@ -844,7 +844,7 @@
 			"region": "18",
 			"country": "GI"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 84
 	},
 	{
@@ -852,7 +852,7 @@
 			"region": "18",
 			"country": "GR"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 85
 	},
 	{
@@ -860,7 +860,7 @@
 			"region": "10",
 			"country": "GL"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 86
 	},
 	{
@@ -868,7 +868,7 @@
 			"region": "7",
 			"country": "GD"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 87
 	},
 	{
@@ -876,7 +876,7 @@
 			"region": "7",
 			"country": "GP"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 88
 	},
 	{
@@ -884,7 +884,7 @@
 			"region": "22",
 			"country": "GU"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 89
 	},
 	{
@@ -892,7 +892,7 @@
 			"region": "8",
 			"country": "GT"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 90
 	},
 	{
@@ -900,7 +900,7 @@
 			"region": "17",
 			"country": "GG"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 91
 	},
 	{
@@ -908,7 +908,7 @@
 			"region": "6",
 			"country": "GN"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 92
 	},
 	{
@@ -916,7 +916,7 @@
 			"region": "6",
 			"country": "GW"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 93
 	},
 	{
@@ -924,7 +924,7 @@
 			"region": "9",
 			"country": "GY"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 94
 	},
 	{
@@ -932,7 +932,7 @@
 			"region": "7",
 			"country": "HT"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 95
 	},
 	{
@@ -940,7 +940,7 @@
 			"region": "1",
 			"country": "HM"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 96
 	},
 	{
@@ -948,7 +948,7 @@
 			"region": "8",
 			"country": "HN"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 97
 	},
 	{
@@ -956,7 +956,7 @@
 			"region": "12",
 			"country": "HK"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 98
 	},
 	{
@@ -964,7 +964,7 @@
 			"region": "16",
 			"country": "HU"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 99
 	},
 	{
@@ -972,7 +972,7 @@
 			"region": "17",
 			"country": "IS"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 100
 	},
 	{
@@ -980,7 +980,7 @@
 			"region": "13",
 			"country": "IN"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 101
 	},
 	{
@@ -988,7 +988,7 @@
 			"region": "14",
 			"country": "ID"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 102
 	},
 	{
@@ -996,7 +996,7 @@
 			"region": "13",
 			"country": "IR"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 103
 	},
 	{
@@ -1004,7 +1004,7 @@
 			"region": "15",
 			"country": "IQ"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 104
 	},
 	{
@@ -1012,7 +1012,7 @@
 			"region": "17",
 			"country": "IE"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 105
 	},
 	{
@@ -1020,7 +1020,7 @@
 			"region": "17",
 			"country": "IM"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 106
 	},
 	{
@@ -1028,7 +1028,7 @@
 			"region": "15",
 			"country": "IL"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 107
 	},
 	{
@@ -1036,7 +1036,7 @@
 			"region": "18",
 			"country": "IT"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 108
 	},
 	{
@@ -1044,7 +1044,7 @@
 			"region": "7",
 			"country": "JM"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 109
 	},
 	{
@@ -1052,7 +1052,7 @@
 			"region": "12",
 			"country": "JP"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 110
 	},
 	{
@@ -1060,7 +1060,7 @@
 			"region": "17",
 			"country": "JE"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 111
 	},
 	{
@@ -1068,7 +1068,7 @@
 			"region": "15",
 			"country": "JO"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 112
 	},
 	{
@@ -1076,7 +1076,7 @@
 			"region": "11",
 			"country": "KZ"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 113
 	},
 	{
@@ -1084,7 +1084,7 @@
 			"region": "2",
 			"country": "KE"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 114
 	},
 	{
@@ -1092,7 +1092,7 @@
 			"region": "22",
 			"country": "KI"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 115
 	},
 	{
@@ -1100,7 +1100,7 @@
 			"region": "12",
 			"country": "KP"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 116
 	},
 	{
@@ -1108,7 +1108,7 @@
 			"region": "12",
 			"country": "KR"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 117
 	},
 	{
@@ -1116,7 +1116,7 @@
 			"region": "15",
 			"country": "KW"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 118
 	},
 	{
@@ -1124,7 +1124,7 @@
 			"region": "11",
 			"country": "KG"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 119
 	},
 	{
@@ -1132,7 +1132,7 @@
 			"region": "1",
 			"country": "LA"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 120
 	},
 	{
@@ -1140,7 +1140,7 @@
 			"region": "17",
 			"country": "LV"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 121
 	},
 	{
@@ -1148,7 +1148,7 @@
 			"region": "15",
 			"country": "LB"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 122
 	},
 	{
@@ -1156,7 +1156,7 @@
 			"region": "5",
 			"country": "LS"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 123
 	},
 	{
@@ -1164,7 +1164,7 @@
 			"region": "6",
 			"country": "LR"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 124
 	},
 	{
@@ -1172,7 +1172,7 @@
 			"region": "4",
 			"country": "LY"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 125
 	},
 	{
@@ -1180,7 +1180,7 @@
 			"region": "19",
 			"country": "LI"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 126
 	},
 	{
@@ -1188,7 +1188,7 @@
 			"region": "17",
 			"country": "LT"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 127
 	},
 	{
@@ -1196,7 +1196,7 @@
 			"region": "19",
 			"country": "LU"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 128
 	},
 	{
@@ -1204,7 +1204,7 @@
 			"region": "1",
 			"country": "MO"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 129
 	},
 	{
@@ -1212,7 +1212,7 @@
 			"region": "18",
 			"country": "MK"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 130
 	},
 	{
@@ -1220,7 +1220,7 @@
 			"region": "2",
 			"country": "MG"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 131
 	},
 	{
@@ -1228,7 +1228,7 @@
 			"region": "2",
 			"country": "MW"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 132
 	},
 	{
@@ -1236,7 +1236,7 @@
 			"region": "14",
 			"country": "MY"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 133
 	},
 	{
@@ -1244,7 +1244,7 @@
 			"region": "13",
 			"country": "MV"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 134
 	},
 	{
@@ -1252,7 +1252,7 @@
 			"region": "6",
 			"country": "ML"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 135
 	},
 	{
@@ -1260,7 +1260,7 @@
 			"region": "18",
 			"country": "MT"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 136
 	},
 	{
@@ -1268,7 +1268,7 @@
 			"region": "22",
 			"country": "MH"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 137
 	},
 	{
@@ -1276,7 +1276,7 @@
 			"region": "7",
 			"country": "MQ"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 138
 	},
 	{
@@ -1284,7 +1284,7 @@
 			"region": "6",
 			"country": "MR"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 139
 	},
 	{
@@ -1292,7 +1292,7 @@
 			"region": "2",
 			"country": "MU"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 140
 	},
 	{
@@ -1300,7 +1300,7 @@
 			"region": "2",
 			"country": "YT"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 141
 	},
 	{
@@ -1308,7 +1308,7 @@
 			"region": "8",
 			"country": "MX"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 142
 	},
 	{
@@ -1316,7 +1316,7 @@
 			"region": "22",
 			"country": "FM"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 143
 	},
 	{
@@ -1324,7 +1324,7 @@
 			"region": "16",
 			"country": "MD"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 144
 	},
 	{
@@ -1332,7 +1332,7 @@
 			"region": "19",
 			"country": "MC"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 145
 	},
 	{
@@ -1340,7 +1340,7 @@
 			"region": "12",
 			"country": "MN"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 146
 	},
 	{
@@ -1348,7 +1348,7 @@
 			"region": "18",
 			"country": "ME"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 147
 	},
 	{
@@ -1356,7 +1356,7 @@
 			"region": "7",
 			"country": "MS"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 148
 	},
 	{
@@ -1364,7 +1364,7 @@
 			"region": "4",
 			"country": "MA"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 149
 	},
 	{
@@ -1372,7 +1372,7 @@
 			"region": "2",
 			"country": "MZ"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 150
 	},
 	{
@@ -1380,7 +1380,7 @@
 			"region": "14",
 			"country": "MM"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 151
 	},
 	{
@@ -1388,7 +1388,7 @@
 			"region": "5",
 			"country": "NA"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 152
 	},
 	{
@@ -1396,7 +1396,7 @@
 			"region": "22",
 			"country": "NR"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 153
 	},
 	{
@@ -1404,7 +1404,7 @@
 			"region": "13",
 			"country": "NP"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 154
 	},
 	{
@@ -1412,7 +1412,7 @@
 			"region": "19",
 			"country": "NL"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 155
 	},
 	{
@@ -1420,7 +1420,7 @@
 			"region": "19",
 			"country": "AN"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 156
 	},
 	{
@@ -1428,7 +1428,7 @@
 			"region": "21",
 			"country": "NC"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 157
 	},
 	{
@@ -1436,7 +1436,7 @@
 			"region": "20",
 			"country": "NZ"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 158
 	},
 	{
@@ -1444,7 +1444,7 @@
 			"region": "8",
 			"country": "NI"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 159
 	},
 	{
@@ -1452,7 +1452,7 @@
 			"region": "6",
 			"country": "NE"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 160
 	},
 	{
@@ -1460,7 +1460,7 @@
 			"region": "6",
 			"country": "NG"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 161
 	},
 	{
@@ -1468,7 +1468,7 @@
 			"region": "23",
 			"country": "NU"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 162
 	},
 	{
@@ -1476,7 +1476,7 @@
 			"region": "20",
 			"country": "NF"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 163
 	},
 	{
@@ -1484,7 +1484,7 @@
 			"region": "22",
 			"country": "MP"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 164
 	},
 	{
@@ -1492,7 +1492,7 @@
 			"region": "17",
 			"country": "NO"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 165
 	},
 	{
@@ -1500,7 +1500,7 @@
 			"region": "15",
 			"country": "OM"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 166
 	},
 	{
@@ -1508,7 +1508,7 @@
 			"region": "13",
 			"country": "PK"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 167
 	},
 	{
@@ -1516,7 +1516,7 @@
 			"region": "22",
 			"country": "PW"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 168
 	},
 	{
@@ -1524,7 +1524,7 @@
 			"region": "15",
 			"country": "PS"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 169
 	},
 	{
@@ -1532,7 +1532,7 @@
 			"region": "8",
 			"country": "PA"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 170
 	},
 	{
@@ -1540,7 +1540,7 @@
 			"region": "21",
 			"country": "PG"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 171
 	},
 	{
@@ -1548,7 +1548,7 @@
 			"region": "9",
 			"country": "PY"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 172
 	},
 	{
@@ -1556,7 +1556,7 @@
 			"region": "9",
 			"country": "PE"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 173
 	},
 	{
@@ -1564,7 +1564,7 @@
 			"region": "14",
 			"country": "PH"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 174
 	},
 	{
@@ -1572,7 +1572,7 @@
 			"region": "23",
 			"country": "PN"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 175
 	},
 	{
@@ -1580,7 +1580,7 @@
 			"region": "16",
 			"country": "PL"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 176
 	},
 	{
@@ -1588,7 +1588,7 @@
 			"region": "18",
 			"country": "PT"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 177
 	},
 	{
@@ -1596,7 +1596,7 @@
 			"region": "7",
 			"country": "PR"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 178
 	},
 	{
@@ -1604,7 +1604,7 @@
 			"region": "15",
 			"country": "QA"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 179
 	},
 	{
@@ -1612,7 +1612,7 @@
 			"region": "2",
 			"country": "RE"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 180
 	},
 	{
@@ -1620,7 +1620,7 @@
 			"region": "16",
 			"country": "RO"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 181
 	},
 	{
@@ -1628,7 +1628,7 @@
 			"region": "16",
 			"country": "RU"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 182
 	},
 	{
@@ -1636,7 +1636,7 @@
 			"region": "2",
 			"country": "RW"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 183
 	},
 	{
@@ -1644,7 +1644,7 @@
 			"region": "7",
 			"country": "BL"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 184
 	},
 	{
@@ -1652,7 +1652,7 @@
 			"region": "6",
 			"country": "SH"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 185
 	},
 	{
@@ -1660,7 +1660,7 @@
 			"region": "7",
 			"country": "KN"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 186
 	},
 	{
@@ -1668,7 +1668,7 @@
 			"region": "7",
 			"country": "LC"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 187
 	},
 	{
@@ -1676,7 +1676,7 @@
 			"region": "7",
 			"country": "MF"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 188
 	},
 	{
@@ -1684,7 +1684,7 @@
 			"region": "10",
 			"country": "PM"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 189
 	},
 	{
@@ -1692,7 +1692,7 @@
 			"region": "7",
 			"country": "VC"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 190
 	},
 	{
@@ -1700,7 +1700,7 @@
 			"region": "23",
 			"country": "WS"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 191
 	},
 	{
@@ -1708,7 +1708,7 @@
 			"region": "18",
 			"country": "SM"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 192
 	},
 	{
@@ -1716,7 +1716,7 @@
 			"region": "3",
 			"country": "ST"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 193
 	},
 	{
@@ -1724,7 +1724,7 @@
 			"region": "15",
 			"country": "SA"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 194
 	},
 	{
@@ -1732,7 +1732,7 @@
 			"region": "6",
 			"country": "SN"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 195
 	},
 	{
@@ -1740,7 +1740,7 @@
 			"region": "18",
 			"country": "RS"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 196
 	},
 	{
@@ -1748,7 +1748,7 @@
 			"region": "2",
 			"country": "SC"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 197
 	},
 	{
@@ -1756,7 +1756,7 @@
 			"region": "6",
 			"country": "SL"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 198
 	},
 	{
@@ -1764,7 +1764,7 @@
 			"region": "14",
 			"country": "SG"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 199
 	},
 	{
@@ -1772,7 +1772,7 @@
 			"region": "16",
 			"country": "SK"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 200
 	},
 	{
@@ -1780,7 +1780,7 @@
 			"region": "18",
 			"country": "SI"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 201
 	},
 	{
@@ -1788,7 +1788,7 @@
 			"region": "21",
 			"country": "SB"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 202
 	},
 	{
@@ -1796,7 +1796,7 @@
 			"region": "2",
 			"country": "SO"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 203
 	},
 	{
@@ -1804,7 +1804,7 @@
 			"region": "5",
 			"country": "ZA"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 204
 	},
 	{
@@ -1812,7 +1812,7 @@
 			"region": "1",
 			"country": "GS"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 205
 	},
 	{
@@ -1820,7 +1820,7 @@
 			"region": "18",
 			"country": "ES"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 206
 	},
 	{
@@ -1828,7 +1828,7 @@
 			"region": "13",
 			"country": "LK"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 207
 	},
 	{
@@ -1836,7 +1836,7 @@
 			"region": "4",
 			"country": "SD"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 208
 	},
 	{
@@ -1844,7 +1844,7 @@
 			"region": "9",
 			"country": "SR"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 209
 	},
 	{
@@ -1852,7 +1852,7 @@
 			"region": "17",
 			"country": "SJ"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 210
 	},
 	{
@@ -1860,7 +1860,7 @@
 			"region": "5",
 			"country": "SZ"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 211
 	},
 	{
@@ -1868,7 +1868,7 @@
 			"region": "17",
 			"country": "SE"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 212
 	},
 	{
@@ -1876,7 +1876,7 @@
 			"region": "19",
 			"country": "CH"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 213
 	},
 	{
@@ -1884,7 +1884,7 @@
 			"region": "15",
 			"country": "SY"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 214
 	},
 	{
@@ -1892,7 +1892,7 @@
 			"region": "1",
 			"country": "TW"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 215
 	},
 	{
@@ -1900,7 +1900,7 @@
 			"region": "11",
 			"country": "TJ"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 216
 	},
 	{
@@ -1908,7 +1908,7 @@
 			"region": "2",
 			"country": "TZ"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 217
 	},
 	{
@@ -1916,7 +1916,7 @@
 			"region": "14",
 			"country": "TH"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 218
 	},
 	{
@@ -1924,7 +1924,7 @@
 			"region": "14",
 			"country": "TL"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 219
 	},
 	{
@@ -1932,7 +1932,7 @@
 			"region": "6",
 			"country": "TG"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 220
 	},
 	{
@@ -1940,7 +1940,7 @@
 			"region": "23",
 			"country": "TK"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 221
 	},
 	{
@@ -1948,7 +1948,7 @@
 			"region": "23",
 			"country": "TO"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 222
 	},
 	{
@@ -1956,7 +1956,7 @@
 			"region": "7",
 			"country": "TT"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 223
 	},
 	{
@@ -1964,7 +1964,7 @@
 			"region": "4",
 			"country": "TN"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 224
 	},
 	{
@@ -1972,7 +1972,7 @@
 			"region": "15",
 			"country": "TR"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 225
 	},
 	{
@@ -1980,7 +1980,7 @@
 			"region": "11",
 			"country": "TM"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 226
 	},
 	{
@@ -1988,7 +1988,7 @@
 			"region": "7",
 			"country": "TC"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 227
 	},
 	{
@@ -1996,7 +1996,7 @@
 			"region": "23",
 			"country": "TV"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 228
 	},
 	{
@@ -2004,7 +2004,7 @@
 			"region": "2",
 			"country": "UG"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 229
 	},
 	{
@@ -2012,7 +2012,7 @@
 			"region": "16",
 			"country": "UA"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 230
 	},
 	{
@@ -2020,7 +2020,7 @@
 			"region": "15",
 			"country": "AE"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 231
 	},
 	{
@@ -2028,7 +2028,7 @@
 			"region": "17",
 			"country": "GB"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 232
 	},
 	{
@@ -2036,7 +2036,7 @@
 			"region": "1",
 			"country": "UM"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 233
 	},
 	{
@@ -2044,7 +2044,7 @@
 			"region": "10",
 			"country": "US"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 234
 	},
 	{
@@ -2052,7 +2052,7 @@
 			"region": "9",
 			"country": "UY"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 235
 	},
 	{
@@ -2060,7 +2060,7 @@
 			"region": "11",
 			"country": "UZ"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 236
 	},
 	{
@@ -2068,7 +2068,7 @@
 			"region": "21",
 			"country": "VU"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 237
 	},
 	{
@@ -2076,7 +2076,7 @@
 			"region": "18",
 			"country": "VA"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 238
 	},
 	{
@@ -2084,7 +2084,7 @@
 			"region": "9",
 			"country": "VE"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 239
 	},
 	{
@@ -2092,7 +2092,7 @@
 			"region": "1",
 			"country": "VN"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 240
 	},
 	{
@@ -2100,7 +2100,7 @@
 			"region": "7",
 			"country": "VG"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 241
 	},
 	{
@@ -2108,7 +2108,7 @@
 			"region": "7",
 			"country": "VI"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 242
 	},
 	{
@@ -2116,7 +2116,7 @@
 			"region": "23",
 			"country": "WF"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 243
 	},
 	{
@@ -2124,7 +2124,7 @@
 			"region": "4",
 			"country": "EH"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 244
 	},
 	{
@@ -2132,7 +2132,7 @@
 			"region": "15",
 			"country": "YE"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 245
 	},
 	{
@@ -2140,7 +2140,7 @@
 			"region": "2",
 			"country": "ZM"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 246
 	},
 	{
@@ -2148,7 +2148,7 @@
 			"region": "2",
 			"country": "ZW"
 		},
-		"model": "simple_regions.regioncountry",
+		"model": "world_regions.regioncountry",
 		"pk": 247
 	}
 ]
