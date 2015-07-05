@@ -7,6 +7,7 @@ class RegionCountriesInline(admin.TabularInline):
 
 
 class RegionAdmin(admin.ModelAdmin):
+    list_display = ('name', 'code')
     inlines = [RegionCountriesInline]
 
 admin.site.register(Region, RegionAdmin)
