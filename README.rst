@@ -15,7 +15,6 @@ Installation
 1. ``pip install django-world-regions``
 2. Add ``world_regions`` to ``INSTALLED_APPS``
 3. ``python manage.py migrate``
-4. ``python manage.py loaddata fixtures/initial_data.json``
 
 Usage
 =====
@@ -24,7 +23,7 @@ Usage
 
    from world_regions.models import Region
 
-   region = Region.objects.get(countries_country='US')
+   region = Region.objects.get(countries__country='US')
    print region.name
 
 .. _Django Countries: https://github.com/SmileyChris/django-countries

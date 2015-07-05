@@ -3,4 +3,5 @@ include README.rst
 recursive-include world_regions/static *
 recursive-include world_regions/fixtures *
 recursive-include world_regions/templates *
+recursive-include world_regions/migrations *
 recursive-include docs *
